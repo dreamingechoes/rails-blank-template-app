@@ -46,7 +46,7 @@ Getting Started
 
 To start using this template, you only have to do the typical ***Rails*** things:
 
-* Install ***Ruby*** version 2.2.3 (using [RVM](https://github.com/rvm/rvm) or [RBenv](https://github.com/sstephenson/rbenv) or whatever).
+* Install ***Ruby*** version 2.3.0 (using [RVM](https://github.com/rvm/rvm) or [RBenv](https://github.com/sstephenson/rbenv) or whatever).
 
 * Clone the repo and do the ***bundle install*** thing:
 
