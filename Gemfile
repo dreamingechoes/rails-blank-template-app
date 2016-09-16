@@ -1,16 +1,16 @@
 source 'https://rubygems.org'
-ruby '2.2.3'
+ruby '2.3.0'
 
-gem 'rails', '4.2.5'
-gem 'sass-rails', '~> 5.0'
-gem 'uglifier', '>= 1.3.0'
-gem 'coffee-rails', '~> 4.1.0'
+gem 'rails'
+gem 'sass-rails'
+gem 'uglifier'
+gem 'coffee-rails'
 gem 'jquery-rails'
-gem 'jbuilder', '~> 2.0'
+gem 'jbuilder'
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'high_voltage'
-gem 'mysql2', '~> 0.3.18'
+gem 'mysql2'
 gem 'sendgrid'
 gem 'thin'
 gem 'seed_dump'
@@ -23,10 +23,10 @@ group :development do
   gem 'guard-rspec'
   gem 'quiet_assets'
   gem 'rails_layout'
-  gem 'rb-fchange', :require=>false
-  gem 'rb-fsevent', :require=>false
-  gem 'rb-inotify', :require=>false
-  gem 'web-console', '~> 2.0'
+  gem 'rb-fchange', require: false
+  gem 'rb-fsevent', require: false
+  gem 'rb-inotify', require: false
+  gem 'web-console'
   gem 'spring-commands-rspec'
   gem 'spring'
 end
